@@ -1,7 +1,7 @@
 # red-wine
 
 ## About 
-This is a Mini-Project for SC1015 (INTRODUCTION TO DATA SCIENCE AND ARTIFICIAL INTELLIGENCE) and our team aims to develop a model that can predict wine quality based on its physiochemical properties. We will be utilising the data from [kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)  
+This is a Mini-Project for SC1015 (INTRODUCTION TO DATA SCIENCE AND ARTIFICIAL INTELLIGENCE) and our team (team 3) aims to develop a model that can predict wine quality based on its physiochemical properties. We will be utilising the data from [kaggle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)  
   Due to rendering issues in Github, please access our files using these links to view our graphs
   1. [Exploratory data analysis](https://nbviewer.org/github/waishan09/red-wine/blob/main/exploratory-data-analysis.ipynb)
   2. [Data cleaning and preparation](https://nbviewer.org/github/waishan09/red-wine/blob/main/data-cleaning-and-preparation.ipynb)
