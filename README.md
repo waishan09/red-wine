@@ -5,7 +5,8 @@ This is a Mini-Project for SC1015 (INTRODUCTION TO DATA SCIENCE AND ARTIFICIAL I
   Due to rendering issues in Github, please access our files using these links to view our graphs
   1. [Exploratory data analysis](https://nbviewer.org/github/waishan09/red-wine/blob/main/exploratory-data-analysis.ipynb)
   2. [Data cleaning and preparation](https://nbviewer.org/github/waishan09/red-wine/blob/main/data-cleaning-and-preparation.ipynb)
-  3. [Models](
+  3. [Models](https://github.com/waishan09/red-wine/blob/main/modelsss.ipynb)
+  4. [Full code overview](https://nbviewer.org/github/waishan09/red-wine/blob/main/mini-project-overall-final.ipynb) (if this doesn't work then click [this](https://github.com/waishan09/red-wine/blob/main/mini-project-overall-final.ipynb) 
 ## Contributor
   - Zhu Wai Shan (Exploratory data analysis, data cleaning and preparation and models)
   - Aanya (Models)
